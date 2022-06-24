@@ -1,0 +1,62 @@
+#mydiv{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: #c26dab;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppin',sans-serif;
+    color: black;
+}
+.container{
+
+    
+    height: 100%;
+    background-position: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float:center;
+    
+}
+.profile-box{
+    background: #ff574a;
+    text-align:center;
+    padding: 40px 90px;
+    color:#fff;
+    position: relative;
+    border-radius: 20px;
+    float: right;
+
+}
+.image{
+    width: 150px;
+    border-radius: 50%;
+    background:palevioletred;
+    padding: 6px;
+    margin-top: 2   0px ;
+    
+}
+.textbox{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background-color: purple ;
+    border-radius: 5px;
+}
+button{
+    padding: 0;
+    margin: 0;
+    background-color: purple;
+    border: 1px solid seashell;
+    border-radius: 2px;
+}
+.exchange{
+    padding: 4px;
+
+}
